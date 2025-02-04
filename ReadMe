@@ -1,0 +1,8 @@
+This repo contains the resources I used to track my progress as I was preparing for Exam DP-700: Implementing Data Engineering Solutions Using Microsoft Fabric.
+There are 3 resources in this repo:
+1. An Excel file that I created using the offical study guide: https://learn.microsoft.com/en-us/credentials/certifications/resources/study-guides/dp-700?wt.mc_id=certsustainedmkt_portfolioupdate_blog_wwl
+2. A Power BI file that is based on the Excel file above. I used this Power BI file to summarize my progress.
+3. A OneNote file that contains the notes I took while preparing for the exam. I reviewed these notes before the exam.
+4. A PDF version of the OneNote file.
+
+The Excel file and Power BI file work together. Download both files and then point the Power BI data source to where the Excel file is located by going to Transform Data --> Data Souce Settings.
